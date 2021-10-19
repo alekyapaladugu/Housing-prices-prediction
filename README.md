@@ -1,1 +1,1 @@
-# githubdatasceince
+Datascience exercises and projects.
